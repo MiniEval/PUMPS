@@ -1,0 +1,1 @@
+Download the BVH files of the 100STYLE dataset from here: https://www.ianxmason.com/100style/. Any subfolder structure will do.

@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+opencv-python
+cdflib
+torch-lap-cuda
+PySide6

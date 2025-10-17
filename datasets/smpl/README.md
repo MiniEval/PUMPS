@@ -1,0 +1,1 @@
+Download DMPLs from https://smpl.is.tue.mpg.de. The female, male, and neutral folders should be in the same folder as this README.

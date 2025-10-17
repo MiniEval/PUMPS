@@ -1,0 +1,1 @@
+Download .npz's of the AMASS dataset from here: https://amass.is.tue.mpg.de/. Any subfolder structure will do.

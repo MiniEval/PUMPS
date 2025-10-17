@@ -1,0 +1,1 @@
+Download BVH conversions of the CMU MoCap dataset from here: https://github.com/una-dinosauria/cmu-mocap. Any subfolder structure will do.
